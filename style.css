@@ -55,3 +55,11 @@ table{
     background-color: antiquewhite;
 
 }
+a{
+    text-decoration: none;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a:hover{  
+    color: red;
+}
